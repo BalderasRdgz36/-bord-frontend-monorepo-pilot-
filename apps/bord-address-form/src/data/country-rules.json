@@ -1,0 +1,142 @@
+[
+  {
+    "country": "Argentina",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número de puerta",
+    "neighborhood_label": "Barrio / Zona",
+    "apartment_label": "Piso / Departamento / Casa"
+  },
+  {
+    "country": "Bolivia",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número de puerta",
+    "neighborhood_label": "Zona / Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Brasil",
+    "street_label": "Rua / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Bairro",
+    "apartment_label": "Complemento / Apartamento / Casa"
+  },
+  {
+    "country": "Chile",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Barrio / Sector",
+    "apartment_label": "Departamento / Casa"
+  },
+  {
+    "country": "Colombia",
+    "street_label": "Calle / Carrera / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Barrio",
+    "apartment_label": "Apartamento / Casa / Complemento"
+  },
+  {
+    "country": "Costa Rica",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número o Señales",
+    "neighborhood_label": "Barrio / Distrito",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Cuba",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Reparto / Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Ecuador",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Barrio / Sector",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "El Salvador",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Colonia / Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Guatemala",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Zona / Colonia / Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Haití",
+    "street_label": "Rue",
+    "number_label": "Numéro",
+    "neighborhood_label": "Quartier / Localité",
+    "apartment_label": "Appartement / Maison"
+  },
+  {
+    "country": "Honduras",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Colonia / Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "México",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número Exterior",
+    "neighborhood_label": "Colonia",
+    "apartment_label": "Número Interior / Apartamento / Casa"
+  },
+  {
+    "country": "Nicaragua",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número o Referencia",
+    "neighborhood_label": "Barrio / Reparto",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Panamá",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número / Casa",
+    "neighborhood_label": "Corregimiento / Barrio",
+    "apartment_label": "Apartamento"
+  },
+  {
+    "country": "Paraguay",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Perú",
+    "street_label": "Calle / Avenida / Jirón",
+    "number_label": "Número",
+    "neighborhood_label": "Urbanización / Barrio / Sector",
+    "apartment_label": "Departamento / Interior / Casa"
+  },
+  {
+    "country": "República Dominicana",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número",
+    "neighborhood_label": "Barrio / Sector",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Uruguay",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número de puerta",
+    "neighborhood_label": "Barrio",
+    "apartment_label": "Apartamento / Casa"
+  },
+  {
+    "country": "Venezuela",
+    "street_label": "Calle / Avenida",
+    "number_label": "Número / Casa",
+    "neighborhood_label": "Urbanización / Barrio",
+    "apartment_label": "Apartamento"
+  }
+]

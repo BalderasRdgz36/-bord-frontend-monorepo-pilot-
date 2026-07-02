@@ -1,0 +1,122 @@
+[
+  {
+    "country": "Argentina",
+    "country_code": 54,
+    "digits": 10,
+    "local_format_example": "11 2345 6789"
+  },
+  {
+    "country": "Bolivia",
+    "country_code": 591,
+    "digits": 8,
+    "local_format_example": "71234567"
+  },
+  {
+    "country": "Brasil",
+    "country_code": 55,
+    "digits": 11,
+    "local_format_example": "11 91234 5678"
+  },
+  {
+    "country": "Chile",
+    "country_code": 56,
+    "digits": 9,
+    "local_format_example": "9 1234 5678"
+  },
+  {
+    "country": "Colombia",
+    "country_code": 57,
+    "digits": 10,
+    "local_format_example": "300 123 4567"
+  },
+  {
+    "country": "Costa Rica",
+    "country_code": 506,
+    "digits": 8,
+    "local_format_example": "8888 8888"
+  },
+  {
+    "country": "Cuba",
+    "country_code": 53,
+    "digits": 8,
+    "local_format_example": "5 123 4567"
+  },
+  {
+    "country": "Ecuador",
+    "country_code": 593,
+    "digits": 9,
+    "local_format_example": "99 123 4567"
+  },
+  {
+    "country": "El Salvador",
+    "country_code": 503,
+    "digits": 8,
+    "local_format_example": "7123 4567"
+  },
+  {
+    "country": "Guatemala",
+    "country_code": 502,
+    "digits": 8,
+    "local_format_example": "5123 4567"
+  },
+  {
+    "country": "Haití",
+    "country_code": 509,
+    "digits": 8,
+    "local_format_example": "34 12 3456"
+  },
+  {
+    "country": "Honduras",
+    "country_code": 504,
+    "digits": 8,
+    "local_format_example": "9123 4567"
+  },
+  {
+    "country": "México",
+    "country_code": 52,
+    "digits": 10,
+    "local_format_example": "55 1234 5678"
+  },
+  {
+    "country": "Nicaragua",
+    "country_code": 505,
+    "digits": 8,
+    "local_format_example": "8123 4567"
+  },
+  {
+    "country": "Panamá",
+    "country_code": 507,
+    "digits": 8,
+    "local_format_example": "6123 4567"
+  },
+  {
+    "country": "Paraguay",
+    "country_code": 595,
+    "digits": 9,
+    "local_format_example": "981 123 456"
+  },
+  {
+    "country": "Perú",
+    "country_code": 51,
+    "digits": 9,
+    "local_format_example": "987 654 321"
+  },
+  {
+    "country": "República Dominicana",
+    "country_code": 1,
+    "digits": 10,
+    "local_format_example": "809 123 4567"
+  },
+  {
+    "country": "Uruguay",
+    "country_code": 598,
+    "digits": 8,
+    "local_format_example": "94 231 234"
+  },
+  {
+    "country": "Venezuela",
+    "country_code": 58,
+    "digits": 10,
+    "local_format_example": "414 123 4567"
+  }
+]

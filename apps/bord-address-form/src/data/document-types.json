@@ -1,0 +1,102 @@
+[
+  {
+    "country": "Argentina",
+    "document_name": "DNI",
+    "placeholder": "12.345.678"
+  },
+  {
+    "country": "Bolivia",
+    "document_name": "Cédula de Identidad",
+    "placeholder": "1234567"
+  },
+  {
+    "country": "Brasil",
+    "document_name": "CPF",
+    "placeholder": "123.456.789-00"
+  },
+  {
+    "country": "Chile",
+    "document_name": "RUT / RUN",
+    "placeholder": "12.345.678-9"
+  },
+  {
+    "country": "Colombia",
+    "document_name": "Cédula de Ciudadanía",
+    "placeholder": "1.234.567.890"
+  },
+  {
+    "country": "Costa Rica",
+    "document_name": "Cédula de Identidad",
+    "placeholder": "1-2345-6789"
+  },
+  {
+    "country": "Cuba",
+    "document_name": "Carné de Identidad",
+    "placeholder": "12345678901"
+  },
+  {
+    "country": "Ecuador",
+    "document_name": "Cédula de Identidad / NUI",
+    "placeholder": "1234567890"
+  },
+  {
+    "country": "El Salvador",
+    "document_name": "DUI",
+    "placeholder": "12345678-9"
+  },
+  {
+    "country": "Guatemala",
+    "document_name": "DPI / CUI",
+    "placeholder": "1234567890123"
+  },
+  {
+    "country": "Haití",
+    "document_name": "CIN / NINU / NIF",
+    "placeholder": "01-12-34-1234-12-12345"
+  },
+  {
+    "country": "Honduras",
+    "document_name": "DNI",
+    "placeholder": "0801199012345"
+  },
+  {
+    "country": "México",
+    "document_name": "CURP",
+    "placeholder": "ABCD123456HDFXYZ09"
+  },
+  {
+    "country": "Nicaragua",
+    "document_name": "Cédula de Identidad",
+    "placeholder": "1234567890123"
+  },
+  {
+    "country": "Panamá",
+    "document_name": "Cédula de Identidad Personal",
+    "placeholder": "8-123-456"
+  },
+  {
+    "country": "Paraguay",
+    "document_name": "Cédula de Identidad Civil",
+    "placeholder": "1234567"
+  },
+  {
+    "country": "Perú",
+    "document_name": "DNI",
+    "placeholder": "12345678"
+  },
+  {
+    "country": "República Dominicana",
+    "document_name": "Cédula de Identidad y Electoral",
+    "placeholder": "12345678901"
+  },
+  {
+    "country": "Uruguay",
+    "document_name": "Cédula de Identidad",
+    "placeholder": "1.234.567-8"
+  },
+  {
+    "country": "Venezuela",
+    "document_name": "Cédula de Identidad",
+    "placeholder": "V-12345678"
+  }
+]

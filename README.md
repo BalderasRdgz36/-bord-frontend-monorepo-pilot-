@@ -1,17 +1,41 @@
-# MyWorkspace
+# bord-frontend-monorepo-pilot
+
+Nx monorepo for Bord's frontend applications and microfrontends (React + Vite).
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
-✨ Your new, shiny [Nx workspace](https://nx.dev) is ready ✨.
+[Learn more about this workspace setup and its capabilities](https://nx.dev/getting-started/tutorials/react-monorepo-tutorial?utm_source=nx_project&amp;utm_medium=readme&amp;utm_campaign=nx_projects) or run `npx nx graph` to visually explore what was created.
 
-[Learn more about this workspace setup and its capabilities](https://nx.dev/getting-started/tutorials/react-monorepo-tutorial?utm_source=nx_project&amp;utm_medium=readme&amp;utm_campaign=nx_projects) or run `npx nx graph` to visually explore what was created. Now, let's get you up to speed!
+## Requirements
+
+This repo pins its Node version in `.nvmrc`. Before running any command, make sure you're on the right version:
+
+```sh
+nvm use
+```
+
+Using a mismatched Node version (e.g. an old daemon still running under a different version) is a common cause of Nx failing to process the project graph.
+
+## Projects
+
+| App | Dev port | Preview port |
+| --- | --- | --- |
+| `my-app-nx` | 4200 | 4300 |
+| `my-second-app` | 4201 | 4301 |
+| `@bord/mfe-address-form` | 4202 | 4302 |
 
 ## Run tasks
 
-To run the dev server for your app, use:
+To run the dev server for an app, use:
 
 ```sh
-npx nx serve my-app-nx
+npx nx dev my-app-nx
+```
+
+To run all apps at once:
+
+```sh
+npx nx run-many --target=dev --all
 ```
 
 To create a production bundle:

@@ -5,6 +5,12 @@
   "references": [
     {
       "path": "./apps/my-app-nx"
+    },
+    {
+      "path": "./apps/my-second-app"
+    },
+    {
+      "path": "./apps/bord-address-form"
     }
   ]
 }

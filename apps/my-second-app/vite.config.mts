@@ -27,7 +27,7 @@ export default defineConfig(() => ({
     },
   },
   test: {
-    name: '@my-workspace/my-second-app',
+    name: '@bord/my-second-app',
     watch: false,
     globals: true,
     environment: 'jsdom',

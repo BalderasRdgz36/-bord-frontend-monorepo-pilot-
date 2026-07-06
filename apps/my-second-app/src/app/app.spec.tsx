@@ -8,7 +8,7 @@ describe('App', () => {
     const { baseElement } = render(
       <BrowserRouter>
         <App />
-      </BrowserRouter>,
+      </BrowserRouter>
     );
     expect(baseElement).toBeTruthy();
   });
@@ -17,11 +17,8 @@ describe('App', () => {
     const { getAllByText } = render(
       <BrowserRouter>
         <App />
-      </BrowserRouter>,
+      </BrowserRouter>
     );
-    expect(
-      getAllByText(new RegExp('Welcome @my-workspace/my-second-app', 'gi'))
-        .length > 0,
-    ).toBeTruthy();
+    expect(getAllByText(new RegExp('Welcome @bord/my-second-app', 'gi')).length > 0).toBeTruthy();
   });
 });

@@ -27,7 +27,7 @@ export default defineConfig(() => ({
     },
   },
   test: {
-    name: '@my-workspace/my-app-nx',
+    name: '@bord/my-app-nx',
     watch: false,
     globals: true,
     environment: 'jsdom',
